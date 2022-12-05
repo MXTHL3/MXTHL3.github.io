@@ -1,4 +1,4 @@
-body {
-  background-image: url("risitas.jpg");
-  background-size: 100% 100%;
+#bg {
+  background: url("risitas.jpg");
+  background-size: cover;
 }
