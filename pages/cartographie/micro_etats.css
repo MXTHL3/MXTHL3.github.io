@@ -1,4 +1,8 @@
-.article{
+.smallarticletitle{
+  font-size: 20px;
+  font-family: "Playfair Display";
+}
+.articletitle{
   font-size: 40px;
   font-family: "Playfair Display";
 }
