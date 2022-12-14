@@ -3,5 +3,9 @@
   font-family: "Playfair Display";
 }
 .image{
-  width: 90%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  height: 80%
 }
