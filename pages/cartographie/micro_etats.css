@@ -2,10 +2,7 @@
   font-size: 40px;
   font-family: "Playfair Display";
 }
-.image{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.size{
   width: 80%;
   height: 80%
 }
