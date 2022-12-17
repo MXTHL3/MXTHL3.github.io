@@ -1,4 +1,4 @@
-h2,p{
+h2{
   font-family: Playfair Display;
 }
 h2{
@@ -13,4 +13,13 @@ h4{
   font-family: Caveat;
   font-size: 20px;
   color: crimson;
+}
+li{
+  font-family: Playfair Display;
+  font-size: 20px;
+  width: 70%;
+}
+li::marker{
+  content: "■";
+  color: red;
 }
