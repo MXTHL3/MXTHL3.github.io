@@ -1,1 +1,14 @@
-
+h2,p{
+  font-family: Playfair Display;
+  font-size: 20px;
+}
+h3{
+  font-family: Caveat;
+  font-size: 15px;
+  text-decoration: underline deepskyblue;
+}
+h4{
+  font-family: Caveat;
+  font-size: 12px;
+  color: crimson;
+}
