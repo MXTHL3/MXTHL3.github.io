@@ -4,13 +4,16 @@ h2{
 }
 h3{
   font-size: 30px;
+  font-family: "Playfair Display";
+  font-style: italic;
   text-decoration: underline aqua;
   text-decoration-style: wavy;
 }
 h4{
   font-family: Garamond;
-  font-size: 15px;
+  font-size: 20px;
   font-style: italic;
+  width: 70%;
 }
 .image{
   width: 80%;
@@ -20,5 +23,7 @@ p{
   font-family: Courier New;
   font-size: 20px;
   width: 60%; 
-  color: khaki;
+  color: orange;
+  margin-left: auto;
+  margin-right: auto;
 }
