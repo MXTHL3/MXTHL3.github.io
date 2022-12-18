@@ -1,4 +1,8 @@
-h2{
+.special{
+    padding: 5px 5px;
+    background: rgba(255,255,255);
+    border: 10px solid red;
+    border-radius: 20px;
     font-family: Playfair Display;
     font-size: 50px;
 }
