@@ -4,8 +4,8 @@ h2{
 }
 h3{
   font-size: 30px;
-  text-decoration: underline ;
-  text-decoration-style: wavy skyblue;
+  text-decoration: underline skyblue;
+  text-decoration-style: wavy;
 }
 h4{
   font-family: Garamond;
