@@ -8,6 +8,8 @@ h3{
 }
 img{
   width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 p{
   font-family: Merienda;
