@@ -4,14 +4,14 @@ h2{
 }
 h3{
   font-size: 30px;
-  text-decoration: underline skyblue;
+  text-decoration: underline aqua;
   text-decoration-style: wavy;
 }
 h4{
   font-family: Garamond;
   font-size: 15px;
   font-style: italic;
-img{
+.image{
   width: 80%;
   border: 5px solid skyblue;
 }
