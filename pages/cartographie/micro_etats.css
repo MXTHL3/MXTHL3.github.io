@@ -24,6 +24,8 @@ h4{
 p{
   font-family: Courier New;
   font-size: 20px;
-  width: 60%; 
   color: brown;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%; 
 }
